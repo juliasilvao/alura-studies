@@ -48,9 +48,9 @@ $ npm start
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [React](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Sass](https://www.typescriptlang.org/)
+![npm](https://img.shields.io/npm/v/react?color=black&label=React&logo=react)
+![npm](https://img.shields.io/npm/v/typescript?color=black&label=Typescript&logo=typescript&logoColor=blue)
+![npm](https://img.shields.io/npm/v/sass?color=black&label=Sass&logo=Sass&logoColor=pink)
 
 ## Demonstração
 
